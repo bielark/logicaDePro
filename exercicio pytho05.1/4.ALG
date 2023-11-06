@@ -1,4 +1,6 @@
 Algoritmo "4"
+// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 //
 Var
 // Seção de Declarações das variáveis 
@@ -10,7 +12,6 @@ cont<-1
 enquanto (cont <= 100) faca
        nu<-nu + cont
        cont<-cont + 1
-       escreval (nu)
 fimenquanto
-
+           escreval("a soma ods primeiros 100 numeros:",nu)
 Fimalgoritmo
